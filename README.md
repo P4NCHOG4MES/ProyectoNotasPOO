@@ -37,6 +37,7 @@ Abre resultado.html en tu navegador para ver el resultado final.
 - Librerías:
 
   pandas
+  
   matplotlib
 
 Navegador moderno compatible con la API showSaveFilePicker() (Chrome, Edge o Brave recomendados).
