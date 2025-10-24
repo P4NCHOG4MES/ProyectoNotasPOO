@@ -30,13 +30,14 @@ Se generarán dos archivos:
   grafica.png → Gráfica de barras de las notas.
 Abre resultado.html en tu navegador para ver el resultado final.
 
-Requisitos
+- Requisitos
 
   Python
   
-Librerías:
+- Librerías:
 
-pandas, matplotlib
+  pandas
+  matplotlib
 
 Navegador moderno compatible con la API showSaveFilePicker() (Chrome, Edge o Brave recomendados).
 
