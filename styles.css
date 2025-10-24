@@ -1,0 +1,90 @@
+body {
+    background: linear-gradient(135deg, #0F2027, #203A43, #2C5364);
+    color: #EAEAEA;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container, .resultado-container {
+    background: rgba(20, 20, 20, 0.9);
+    padding: 30px 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 25px rgba(108, 99, 255, 0.4);
+    text-align: center;
+    width: 400px;
+}
+
+h2 {
+    color: #6C63FF;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    text-align: left;
+    margin-top: 10px;
+    font-size: 14px;
+    color: #A0A0A0;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 4px;
+    border: none;
+    border-radius: 8px;
+    background: #2C2C2C;
+    color: #FFF;
+    outline: none;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #6C63FF;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: #574BFF;
+    box-shadow: 0 0 15px #6C63FF;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    color: white;
+}
+
+th {
+    background-color: #6C63FF;
+    padding: 10px;
+    border-radius: 10px 10px 0 0;
+}
+
+td, th {
+    padding: 10px;
+    border-bottom: 1px solid #333;
+}
+
+h3 {
+    margin-top: 20px;
+    color: #6C63FF;
+}
+
+img {
+    margin-top: 15px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(108, 99, 255, 0.4);
+}
